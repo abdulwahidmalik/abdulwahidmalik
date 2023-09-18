@@ -18,7 +18,7 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fjavascript-logo%2F&psig=AOvVaw2tqIQVyw1wQr010JFeCr6W&ust=1695158863447000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDVsIGNtYEDFQAAAAAdAAAAABAE" alt="javascript" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
 </p>
