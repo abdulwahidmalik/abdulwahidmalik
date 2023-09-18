@@ -1,17 +1,18 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://www.linkedin.com/in/shoaib-ahmed-noonari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SHOAIB AHMED" height="100" width="100" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdul-wahid-4285361ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abdul Wahid" height="100" width="100" /></a>&nbsp;
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm DATA ANALYST 
+- 🏦 I'm Frontend Web Developer 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-- 📝 I regulary post at linkedin for Tips
-- 💻 I use daily: **Microsoft Power Bi**, **SQL**, **PYTHON**,  **PYTHON Libraries**
-- 📖 I am currently reading Doing **bachelors** **in** **Software** **Engineering** and pursuing my career in **Data** **Analysis**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+
+- 📝 I am a Microsoft Learn Student Ambassador
+- 💻 I use daily: **Html, CSS**, **Reactjs**, **PYTHON**,  **Java Script**
+- 📖 I am currently reading Doing **bachelors** **in** **Software** **Engineering** and pursuing my career in **Mern Development**
+- 💬 Talk to me about cricket, Javascript , silicon valley & startups, Tech communities
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
