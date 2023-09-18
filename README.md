@@ -15,7 +15,7 @@
 - 💬 Talk to me about cricket, Javascript , Silicon Valley & startups, Tech communities
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Languages I work on :
+- 🧑‍💻 Languages I mostly work on :
 
 <p align="center">
    
